@@ -40,7 +40,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Mpociot\\Teamwork\\TeamworkServiceProvider::class"
+                "Mpociot\\Teamwork\\TeamworkServiceProvider"
             ]
         }
     }
